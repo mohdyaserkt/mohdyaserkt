@@ -1,50 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Mohammed+Yassar;Full+Stack+Architect;AI+Integration+Specialist;Clean+Code+Advocate" alt="Animated typing header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Mohammed+Yassar;Full+Stack+Developer;AI+Integration;Clean+Code+Advocate" alt="Typing animation">
+</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-yassar)
+[![Email](https://img.shields.io/badge/-REACH%20ME%20VIA%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdyassarkt@gmail.com)
+[![GitHub](https://img.shields.io/badge/-EXPLORE%20MY%20CODE-181717?style=for-the-badge&logo=github)](https://github.com/mohdyaserkt)
+
+</div>
+
+
+
+## 🛠 **Tech Stack Spectrum**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,py,graphql,mongodb,postgres,aws,docker,kubernetes,redux,tailwind,figma,git&perline=8" alt="Tech icons" />
 </p>
 
+
+
+## 🔥 **Recent Focus**
+
+<!-- Animated tech carousel -->
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Current%20Tech%20Focus&align=center&borderRadius=12&fontSize=16&lineCount=2&line1=Next.js,next.js,000;Node.js,node.js,339933;TypeScript,typescript,3178C6;Python,python,3776AB;&line2=AWS,aws,232F3E;Kubernetes,kubernetes,326CE5;Docker,docker,2496ED;LLaMA,llama,FFD700;" alt="Tech Stack Card" />
+</p>
+
+
+
+<!-- Animated contact section -->
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-Let's_Collab-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mohd-yassar)
-[![Email](https://img.shields.io/badge/-Shoot_Me_an_Email-EA4335?style=flat&logo=gmail)](mailto:mohdyassarkt@gmail.com)
-[![Phone](https://img.shields.io/badge/-Call_Me-25D366?style=flat&logo=whatsapp)](tel:+918129028182)
+## 📡 **Let's Collaborate**
+  
+[![WhatsApp](https://img.shields.io/badge/-WHATSAPP%20ME-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918129028182)
+[![Twitter](https://img.shields.io/badge/-TWEET%20ME-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Discord](https://img.shields.io/badge/-JOIN%20DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
 
 </div>
 
----
 
-## 🧠 **Technical Core**
 
-### **Frontend Craft**
-`React` `Next.js` `TypeScript` `Tailwind` `Redux`  
-Building pixel-perfect interfaces with modern web ecosystem
-
-### **Backend Mastery** 
-`Node.js` `Python` `Microservices` `REST/GraphQL`  
-Architecting scalable systems with Clean Architecture
-
-### **DevOps Edge**
-`Docker` `Kubernetes` `AWS` `GitHub Actions`  
-Shipping robust solutions with CI/CD pipelines
-
-### **AI Integration**
-`LLM Models` `ChatGPT API` `LLaMA` `Gemini`  
-Enhancing apps with intelligent capabilities
-
----
-
-## 🔥 **What I Bring**
-- **System Design:** SOLID principles & design patterns  
-- **Full Stack Fluency:** End-to-end feature ownership  
-- **Performance First:** Optimized solutions at scale  
-- **Tech Agility:** Quick adoption of new paradigms  
-
----
-
-<div align="center">
-  
-📫 **Let's Build Something Amazing**  
-[![GitHub](https://img.shields.io/badge/-mohdyaserkt-181717?style=for-the-badge&logo=github)](https://github.com/mohdyaserkt)
-
-*"Any code of your own that you haven't looked at for months might as well have been written by someone else"* - **Eagleson's Law**
-
-</div>
+<p align="center">
+  <em>"First solve the problem, then write the code" - John Johnson</em>
+</p>
