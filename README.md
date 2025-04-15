@@ -1,16 +1,35 @@
-## Hi there 👋
+# Yo, I'm Mohammed Yassar! 🚀
 
-<!--
-**mohdyaserkt/mohdyaserkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20TypeScript-blue)](https://github.com/mohdyaserkt)
 
-Here are some ideas to get you started:
+Full Stack Developer hooked on crafting clean, scalable web apps. I vibe with **MERN stack**, **TypeScript**, and building smooth, user-friendly interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Remote | ✉️ [mohdyassarkt@gmail.com](mailto:mohdyassarkt@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/mohd-yassar)
+
+---
+
+## 🧰 Skills
+
+- **Frontend**: React, Next.js, Tailwind CSS, Redux  
+- **Backend**: Node.js, Express, TypeScript, Python  
+- **Database**: MongoDB, Postgres  
+- **DevOps**: Docker, Kubernetes, AWS  
+- **Tools**: Git, Figma, Postman  
+
+---
+
+## 🌈 Currently Into
+
+- AI-driven apps  
+- Microservices vibes  
+- Open-source fun  
+
+---
+
+## 👋 Connect
+
+- [LinkedIn](https://linkedin.com/in/mohd-yassar)  
+- [GitHub](https://github.com/mohdyaserkt)  
+- [Email](mailto:mohdyassarkt@gmail.com)  
+
+*Code. Build. Ship.* ✨
